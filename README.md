@@ -1,2 +1,2 @@
-# Inform-tica-atividades
-Atividades de informática
+# Informtica atividades
+Atividades de informática estão em ''issues''.
